@@ -1,6 +1,6 @@
 {
-"enable_uninstall":true,
-"force_uninstall":true,
+"enable_uninstall":false,
+"force_uninstall":false,
 "mess_uninstall":"Titan Player is replaced by Simple Player, You can uninstall Titan Player to free storage or keep using as well",
 "uninstall_pkn":"com.titanx.videoplayerz"
 }
